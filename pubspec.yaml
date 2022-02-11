@@ -1,0 +1,20 @@
+name: f4f_bottom_bar
+description: Flutter4fun bottom bar
+version: 0.0.1
+homepage: https://github.com/Flutter4Fun/f4f_bottom_bar
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.0.13
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
